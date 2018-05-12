@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5592
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Reuter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35851#An-Old-Story-of-My-Farming-Days-Vol.-III--of-III-.-Ut-Mine-Stromtid-
 gutenberg_issued: '2011-04-13'
 gutenberg_type: Text
 identifiers:
